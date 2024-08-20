@@ -1,4 +1,4 @@
-# NLP_playlist
+# NLP
 NLP Mastery: MY Essential Guide
 
 🌟 **NLP Mastery: Your Essential Guide** 🌟
