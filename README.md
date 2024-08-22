@@ -1,7 +1,5 @@
 # NLP
-NLP Mastery: MY Essential Guide
-
-🌟 **NLP Mastery: Your Essential Guide** 🌟
+🌟 **NLP Mastery: My Essential Guide** 🌟
 
 Welcome to my NLP playlist, where we dive deep into the fascinating world of Natural Language Processing. Whether you're just getting started or looking to refine your skills, this playlist has you covered with all the foundational concepts and practical techniques:
 
