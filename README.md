@@ -13,4 +13,7 @@ Welcome to my NLP playlist, where we dive deep into the fascinating world of Nat
 - ***Word Embeddings***: Capture semantic meaning beyond simple vectors.
 - ***Word2Vec & Skip-Gram***: Dive into advanced word representation techniques.
 
+- for the dataset of the kindle review sentiment analysis : "https://www.kaggle.com/datasets/bharadwaj6/kindle-reviews"
+
+
 Plus, explore exciting projects that bring these concepts to life! 🚀
